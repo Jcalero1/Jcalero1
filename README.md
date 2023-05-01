@@ -1,4 +1,5 @@
-![Computer-Engineering-Subjects](https://user-images.githubusercontent.com/52298174/235419478-9eab2b6e-4b36-4c3f-886f-7e8316185c90.png)
+<img width="1000" alt="Which_Country_Has_The_Best_Computer_Programmers_And_Developers" src="https://user-images.githubusercontent.com/52298174/235419678-f3113e0a-f916-4a4c-814e-b7349265c708.png">
+
 
 <h1 align="left">Hello 👋, I'm Jonathan</h1>
 <h3 align="left">A passionate Computer Engineering Student from Nicaragua</h3>

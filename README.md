@@ -1,15 +1,21 @@
-<h1 align="center">Hi 👋, I'm Jonathan</h1>
-<h3 align="center">A passionate Computer Engineering Student</h3>
+<h1 align="left">Hello 👋, I'm Jonathan</h1>
+<h3 align="left">A passionate Computer Engineering Student from Nicaragua</h3>
+<p>Passionate to learn more about Web Development and improve my coding skills</p>
+<p>Always practicing my coding and looking to learn more in pursuit of be a high quality programmer</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jcalero1&label=Profile%20views&color=0e75b6&style=flat" alt="jcalero1" /> </p>
 
 - 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **jonthan_eater@outlook.com**
+- 📫 How to reach me **jonathan_eater@outlook.com**
+
+- English
+
+- Spanish
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/jonathan calero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jonathan calero" height="30" width="40" /></a>
 <a href="https://instagram.com/jm_calero5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jm_calero5" height="30" width="40" /></a>
 <a href="https://discord.gg/Artemas#0573" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Artemas#0573" height="30" width="40" /></a>
 </p>

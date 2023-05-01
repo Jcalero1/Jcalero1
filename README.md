@@ -1,3 +1,6 @@
+![giphy](https://user-images.githubusercontent.com/52298174/235419319-add37274-9c81-4b2a-aee2-500aa5938365.gif)
+
+
 <h1 align="left">Hello 👋, I'm Jonathan</h1>
 <h3 align="left">A passionate Computer Engineering Student from Nicaragua</h3>
 <p>Passionate to learn more about Web Development and improve my coding skills</p>

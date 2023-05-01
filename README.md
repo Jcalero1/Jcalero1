@@ -1,6 +1,7 @@
 <h1 align="left">Hello 👋, I'm Jonathan</h1>
 <h3 align="left">A passionate Computer Engineering Student from Nicaragua</h3>
 <p>Passionate to learn more about Web Development and improve my coding skills</p>
+<p>However, I also have experience in maintaining and supporting both hardware and software, which allows me to have a broader and more complete perspective in the technology field</p>
 <p>Always practicing my coding and looking to learn more in pursuit of be a high quality programmer</p>
 
 

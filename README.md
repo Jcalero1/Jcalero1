@@ -2,7 +2,7 @@
 
 
 <h1 align="left">Hello 👋, I'm Jonathan</h1>
-<h3 align="left">I'm a Computer Engineering Student from Nicaragua</h3>
+<h3 align="left">I'm a Salesforce Developer from Nicaragua</h3>
 <p>Passionate to learn more about Web Development and improve my coding skills</p>
 <p>However, I also have experience in maintaining and supporting both hardware and software, which allows me to have a broader and more complete perspective in the technology field</p>
 <p>Always practicing my coding and looking to learn more in pursuit of be a high quality programmer</p>
@@ -10,9 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jcalero1&label=Profile%20views&color=0e75b6&style=flat" alt="jcalero1" /> </p>
 
-- 🌱 I’m currently learning **React**
-
-- 📫 How to reach me **jonathan_eater@outlook.com**
+- 📫 How to reach me **jonathancalero879@gmail.com**
 
 - English
 

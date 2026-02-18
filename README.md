@@ -1,11 +1,12 @@
-<img width="1000" alt="Which_Country_Has_The_Best_Computer_Programmers_And_Developers" src="https://user-images.githubusercontent.com/52298174/235419678-f3113e0a-f916-4a4c-814e-b7349265c708.png">
+<img width="1000" alt="Salesforce growth wallpaper" src="https://wallpapers.com/images/hd/salesforce-background-7mp00omuhufrkhu1.jpg">
 
 
 <h1 align="left">Hello 👋, I'm Jonathan</h1>
 <h3 align="left">I'm a Salesforce Developer from Nicaragua</h3>
-<p>Passionate to learn more about Web Development and improve my coding skills</p>
-<p>However, I also have experience in maintaining and supporting both hardware and software, which allows me to have a broader and more complete perspective in the technology field</p>
-<p>Always practicing my coding and looking to learn more in pursuit of be a high quality programmer</p>
+<p>Experienced Salesforce Developer specialized in designing, implementing, and optimizing scalable Salesforce solutions.</p>
+<p>Strong background in Apex, Lightning Web Components (LWC), Flows, and integrations. I have worked on end-to-end implementations, custom development, and system enhancements across Sales Cloud and Service Cloud environments.</p>
+<p>Focused on delivering high-quality, maintainable solutions that align business needs with technical excellence.</p>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jcalero1&label=Profile%20views&color=0e75b6&style=flat" alt="jcalero1" /> </p>
@@ -18,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/jm_calero5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jm_calero5" height="30" width="40" /></a>
+<a href="https://www.salesforce.com/trailblazer/jonathancalero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/trailhead.svg" alt="jonathanCalero" height="30" width="40" /></a>
 <a href="https://discord.gg/Artemas#0573" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Artemas#0573" height="30" width="40" /></a>
 </p>
 
